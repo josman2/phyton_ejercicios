@@ -1,0 +1,94 @@
+#num1=int(input("ingrese un numero: "))
+#if num1==5:
+ #   print("numero igual")
+#else:
+ #   print("numero diferente")
+
+    
+#peso=float(input("ingrese peso"))
+#estatura=float(input("ingrese estatura"))
+#imc= peso/estatura**2
+#print ("su indice de masa corporal es:",imc)
+
+
+#3 parcial 20% c/u
+#4 notas de seguimiento 30%
+#evaluacion 10%
+#si la nota finales mayoro igual a 3.5 gana sino pierde
+
+'''parcial1=float(input("ingrese parcial 1: "))
+parcial2=float(input("ingrese parcial 2: "))
+parcial3=float(input("ingrese parcial 3: "))
+
+parcialFinal = ((parcial1+parcial2+parcial3)/3)*0.6
+print ("tu parcial es:", parcialFinal)
+
+notaSeg1=float(input("ingrese nota seguimiento 1: "))
+notaSeg2=float(input("ingrese nota seguimiento 2: "))
+notaSeg3=float(input("ingrese nota seguimiento 3: "))
+notaSeg4=float(input("ingrese nota seguimiento 4: "))
+
+seguimientoFinal=(notaSeg1+notaSeg2+notaSeg3+notaSeg4)/4*0.4
+print ("tu parcial es:", seguimientoFinal)
+
+evaluacion=float(input("ingrese evaluacion: "))
+evaluacionFinal=evaluacion*0.1
+print ("tu parcial es:", evaluacion)
+
+notaFinal=(parcialFinal+seguimientoFinal+evaluacionFinal)
+print ("tu nota Final es: ",notaFinal)
+
+
+if notaFinal>=3:
+    print("ganste")
+else:
+    print("perdiste")    '''
+              
+'''promedio=3
+if promedio<=3:
+    print("perdio la materia, su nota es inferior o igual:",promedio)
+else:
+    print("gano la materia")'''
+
+'''a=6
+
+if(a<=5):
+    if(a==5):
+        print("a es igual que 5")
+    else:
+        print("a es menor que 5")
+else:
+    print("a es mayor que 5")'''
+
+
+'''a=4
+
+if(a<=5):
+    print("a es menor o igual que 5")
+else:
+    print("a es mayor que 5")'''
+
+
+
+'''producto = input("ingrese producto: ")
+valorProd = float(input("ingrse valor del producto: "))
+iva=valorProd*0.19
+neto=valorProd+iva
+print("el iva de ",producto,"es: ",iva,"el valor neto es: ",neto)'''
+
+
+año=int(input("ingrese año de naciemiento: "))
+
+añoActual=2023
+
+
+añoPro = añoActual-año
+
+if añoPro>=18:
+    print("es mayor de edad, acceso concebido")
+    
+else:
+    print("es menor de edad")
+    
+
+                  
